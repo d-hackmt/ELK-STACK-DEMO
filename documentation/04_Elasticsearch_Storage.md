@@ -22,6 +22,7 @@ This is why Elasticsearch is so fast. Instead of reading every line (like grep),
 
 ### The Cluster Visual
 ```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#00f2ff' }}}%%
 graph TD
     subgraph Cluster
     Node1[Node 1: Primary 1, Replica 2]

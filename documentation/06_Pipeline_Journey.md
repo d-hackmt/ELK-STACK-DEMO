@@ -29,6 +29,7 @@ This document summarizes the lifecycle of a single log message from "Birth" (App
 
 ### The Complete ELK Flow
 ```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#00f2ff' }}}%%
 graph LR
     A[App Pod] -- stdout --> B[Filebeat]
     B -- Lumberjack --> C[Logstash]

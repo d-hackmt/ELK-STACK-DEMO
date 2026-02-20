@@ -22,6 +22,7 @@ Kibana uses "Lenses" to create charts:
 
 ### The Observability Logic
 ```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': 'gold' }}}%%
 graph TD
     Data[Elasticsearch Index] --> Agg[Aggregations: Math/Counts]
     Agg --> Viz[Visualizations: Charts]

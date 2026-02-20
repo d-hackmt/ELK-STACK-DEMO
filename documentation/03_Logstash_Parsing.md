@@ -21,6 +21,7 @@ Different apps log in different formats. Java logs look different from Nginx log
 
 ### The Refinery Workflow
 ```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#ff007a' }}}%%
 graph LR
     Input[Input: Beats] --> Filter[Filter: Grok/Mutate]
     Filter --> Geo[Plugin: GeoIP]

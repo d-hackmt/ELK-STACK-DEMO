@@ -20,6 +20,7 @@ When an application runs, it doesn't usually write to a "file.txt" directly. Ins
 
 ### The Flow Diagram
 ```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#00f2ff' }}}%%
 graph TD
     User([User Request]) --> LB[Load Balancer]
     LB --> Pod1[Replica 1: auth]

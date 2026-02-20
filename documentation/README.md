@@ -30,6 +30,7 @@ Welcome to the comprehensive technical documentation for the ELK Stack Dynamics 
 ## Technical Flow Summary
 
 ```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#00f2ff' }}}%%
 graph LR
     Pods[K8s Pods] --> FB[Filebeat]
     FB --> LS[Logstash]

@@ -32,6 +32,7 @@ Companies use Elasticsearch as the search engine for their actual products.
 
 ### Application Ecosystem
 ```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#ff007a' }}}%%
 graph TD
     Data[Raw Data Sources] --> ELK[ELK Stack]
     ELK --> Sec[Security Teams]

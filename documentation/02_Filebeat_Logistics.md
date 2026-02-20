@@ -19,6 +19,7 @@ Logs often contain sensitive data (IPs, user actions). We protect them using **T
 
 ### The Shipping Flow
 ```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#7000ff' }}}%%
 sequenceDiagram
     participant Disk as Node Storage (/var/log/*.log)
     participant FB as Filebeat Harvester
