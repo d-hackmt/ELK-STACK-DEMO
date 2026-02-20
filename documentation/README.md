@@ -22,6 +22,9 @@ Welcome to the comprehensive technical documentation for the ELK Stack Dynamics 
 ### 6. [The Pipeline Journey](06_Pipeline_Journey.md)
 *Follow a single log message through its entire lifecycle from the Pod to the Dashboard.*
 
+### 7. [Real-World Applications](07_Real_World_Applications.md)
+*Discover how ELK powers SIEM, APM, and Business Intelligence globally.*
+
 ---
 
 ## Technical Flow Summary
