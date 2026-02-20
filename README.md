@@ -10,7 +10,9 @@ Developed by **Divesh Jadhwani**.
 
 This project serves as an educational tool to visualize how logs travel from a **Kubernetes Cluster**, through **Filebeat** and **Logstash**, into **Elasticsearch**, and finally onto a **Kibana** dashboard.
 
-### [ PLACEHOLDER: Insert Main Application Screenshot Here ]
+### Main Application 
+
+![alt text](image.png)
 
 ---
 
