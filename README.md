@@ -2,7 +2,8 @@
 
 A premium, interactive web application designed to demonstrate the full lifecycle of logs in a cloud-native environment using the **ELK (Elasticsearch, Logstash, Kibana) Stack**.
 
-Directed by **Divesh Jadhwani**.
+Directed by **Divesh Jadhwani**
+
 Developed by **Google Antigravity**
 
 ---
