@@ -2,7 +2,9 @@
 
 A premium, interactive web application designed to demonstrate the full lifecycle of logs in a cloud-native environment using the **ELK (Elasticsearch, Logstash, Kibana) Stack**.
 
-Developed by **Divesh Jadhwani**.
+Directed by **Divesh Jadhwani**
+
+Developed by **Google Antigravity**
 
 ---
 
@@ -32,7 +34,10 @@ This project serves as an educational tool to visualize how logs travel from a *
 - `documentation/`: A comprehensive guide to Kubernetes, Sharding, TLS/SSL, and more.
 - `public/`: Static assets and icons.
 
-### [ PLACEHOLDER: Insert Pipeline Flow Diagram Screenshot Here ]
+### 
+
+https://github.com/user-attachments/assets/16887064-a19b-49c3-869c-839fc756ce43
+
 
 ---
 
