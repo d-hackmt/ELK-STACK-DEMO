@@ -25,6 +25,9 @@ Welcome to the comprehensive technical documentation for the ELK Stack Dynamics 
 ### 7. [Real-World Applications](07_Real_World_Applications.md)
 *Discover how ELK powers SIEM, APM, and Business Intelligence globally.*
 
+### 8. [Specific Definitions](08_Specific_Definitions.md)
+*Simple, deep-dive explanations for Protocols, TLS/SSL, Grok, and Kubernetes.*
+
 ---
 
 ## Technical Flow Summary
